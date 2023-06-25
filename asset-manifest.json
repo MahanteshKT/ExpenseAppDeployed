@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Music-Sharing-App/static/css/main.e65df5a6.css",
-    "main.js": "/Music-Sharing-App/static/js/main.a2b85641.js",
-    "static/js/787.b0fa1fea.chunk.js": "/Music-Sharing-App/static/js/787.b0fa1fea.chunk.js",
-    "index.html": "/Music-Sharing-App/index.html",
-    "main.e65df5a6.css.map": "/Music-Sharing-App/static/css/main.e65df5a6.css.map",
-    "main.a2b85641.js.map": "/Music-Sharing-App/static/js/main.a2b85641.js.map",
-    "787.b0fa1fea.chunk.js.map": "/Music-Sharing-App/static/js/787.b0fa1fea.chunk.js.map"
+    "main.css": "/ExpenseAppDeployed/static/css/main.e65df5a6.css",
+    "main.js": "/ExpenseAppDeployed/static/js/main.6b56c7eb.js",
+    "static/js/787.b0fa1fea.chunk.js": "/ExpenseAppDeployed/static/js/787.b0fa1fea.chunk.js",
+    "index.html": "/ExpenseAppDeployed/index.html",
+    "main.e65df5a6.css.map": "/ExpenseAppDeployed/static/css/main.e65df5a6.css.map",
+    "main.6b56c7eb.js.map": "/ExpenseAppDeployed/static/js/main.6b56c7eb.js.map",
+    "787.b0fa1fea.chunk.js.map": "/ExpenseAppDeployed/static/js/787.b0fa1fea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e65df5a6.css",
-    "static/js/main.a2b85641.js"
+    "static/js/main.6b56c7eb.js"
   ]
 }
