@@ -1,0 +1,12 @@
+.expenselist{
+    list-style: none;
+    padding:0;
+}
+
+.expenselist.msg__fallback{
+    margin: 1rem auto;
+    color: azure;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+}
