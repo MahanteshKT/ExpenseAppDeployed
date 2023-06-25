@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Music-Sharing-App/static/css/main.e65df5a6.css",
+    "main.js": "/Music-Sharing-App/static/js/main.a2b85641.js",
+    "static/js/787.b0fa1fea.chunk.js": "/Music-Sharing-App/static/js/787.b0fa1fea.chunk.js",
+    "index.html": "/Music-Sharing-App/index.html",
+    "main.e65df5a6.css.map": "/Music-Sharing-App/static/css/main.e65df5a6.css.map",
+    "main.a2b85641.js.map": "/Music-Sharing-App/static/js/main.a2b85641.js.map",
+    "787.b0fa1fea.chunk.js.map": "/Music-Sharing-App/static/js/787.b0fa1fea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e65df5a6.css",
+    "static/js/main.a2b85641.js"
+  ]
+}
